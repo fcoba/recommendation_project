@@ -1,0 +1,640 @@
+,movie_id,rating,timestamp,user_id,id,gender,age,occupation,zipcode
+719949,,,,,2,M,56,self-employed,70072
+719950,,,,,3,M,25,scientist,55117
+719951,,,,,4,M,45,executive/managerial,02460
+719952,,,,,5,M,25,writer,55455
+719953,,,,,6,F,50,homemaker,55117
+719954,,,,,7,M,35,academic/educator,06810
+719955,,,,,8,M,25,programmer,11413
+719956,,,,,9,M,25,technician/engineer,61614
+719957,,,,,10,F,35,academic/educator,95370
+719958,,,,,11,F,25,academic/educator,04093
+719959,,,,,12,M,25,programmer,32793
+719960,,,,,13,M,45,academic/educator,93304
+719961,,,,,14,M,35,other,60126
+719962,,,,,15,M,25,executive/managerial,22903
+719963,,,,,16,F,35,other,20670
+719964,,,,,17,M,50,academic/educator,95350
+719965,,,,,18,F,18,clerical/admin,95825
+719966,,,,,19,M,1,K-12 student,48073
+719967,,,,,20,M,25,sales/marketing,55113
+719968,,,,,21,M,18,self-employed,99353
+719969,,,,,22,M,18,scientist,53706
+719970,,,,,23,M,35,other,90049
+719971,,,,,24,F,25,executive/managerial,10023
+719972,,,,,25,M,18,college/grad student,01609
+719973,,,,,26,M,25,executive/managerial,23112
+719974,,,,,27,M,25,lawyer,19130
+719975,,,,,28,F,25,academic/educator,14607
+719976,,,,,29,M,35,executive/managerial,33407
+719977,,,,,30,F,35,executive/managerial,19143
+719978,,,,,31,M,56,executive/managerial,06840
+719979,,,,,32,F,25,other,19355
+719980,,,,,33,M,45,clerical/admin,55421
+719981,,,,,34,F,18,other,02135
+719982,,,,,35,M,45,academic/educator,02482
+719983,,,,,36,M,25,clerical/admin,94123
+719984,,,,,37,F,25,homemaker,66212
+719985,,,,,38,F,18,college/grad student,02215
+719986,,,,,39,M,18,college/grad student,61820
+719987,,,,,40,M,45,other,10543
+719988,,,,,41,F,18,college/grad student,15116
+719989,,,,,42,M,25,farmer,24502
+719990,,,,,43,M,25,programmer,60614
+719991,,,,,44,M,45,technician/engineer,98052
+719992,,,,,45,F,45,self-employed,94110
+719993,,,,,46,M,18,unemployed,75602
+719994,,,,,47,M,18,college/grad student,94305
+719995,,,,,48,M,25,college/grad student,92107
+719996,,,,,49,M,18,programmer,77084
+719997,,,,,50,F,25,artist,98133
+719998,,,,,51,F,1,K-12 student,10562
+719999,,,,,52,M,18,college/grad student,72212
+720000,,,,,53,M,25,other,96931
+720001,,,,,54,M,50,academic/educator,56723
+720002,,,,,55,F,35,programmer,55303
+720003,,,,,56,M,35,writer,60440
+720004,,,,,57,M,18,unemployed,30350
+720005,,,,,58,M,25,artist,30303
+720006,,,,,59,F,50,academic/educator,55413
+720007,,,,,60,M,50,academic/educator,72118
+720008,,,,,61,M,25,technician/engineer,95122
+720009,,,,,62,F,35,clerical/admin,98105
+720010,,,,,63,M,18,college/grad student,54902
+720011,,,,,64,M,18,academic/educator,53706
+720012,,,,,65,M,35,programmer,55803
+720013,,,,,66,M,25,tradesman/craftsman,57706
+720014,,,,,67,F,50,customer service,60181
+720015,,,,,68,M,18,college/grad student,53706
+720016,,,,,69,F,25,academic/educator,02143
+720017,,,,,70,M,18,college/grad student,53703
+720018,,,,,71,M,25,sales/marketing,95008
+720019,,,,,72,F,45,other,55122
+720020,,,,,73,M,18,college/grad student,53706
+720021,,,,,74,M,35,sales/marketing,94530
+720022,,,,,75,F,1,K-12 student,01748
+720023,,,,,76,M,35,executive/managerial,55413
+720024,,,,,77,M,18,college/grad student,15321
+720025,,,,,78,F,45,academic/educator,98029
+720026,,,,,79,F,45,other,98103
+720027,,,,,80,M,56,academic/educator,49327
+720028,,,,,81,F,25,other,60640
+720029,,,,,82,M,25,technician/engineer,48380
+720030,,,,,83,F,25,artist,94609
+720031,,,,,84,M,18,college/grad student,53140
+720032,,,,,85,M,18,college/grad student,94945
+720033,,,,,86,F,1,K-12 student,54467
+720034,,,,,87,M,25,sales/marketing,48360
+720035,,,,,88,F,45,academic/educator,02476
+720036,,,,,89,F,56,homemaker,85749
+720037,,,,,90,M,56,retired,85749
+720038,,,,,91,M,35,executive/managerial,07650
+720039,,,,,92,F,18,college/grad student,44243
+720040,,,,,93,M,25,technician/engineer,95825
+720041,,,,,94,M,25,technician/engineer,28601
+720042,,,,,95,M,45,other,98201
+720043,,,,,96,F,25,self-employed,78028
+720044,,,,,97,F,35,clerical/admin,66210
+720045,,,,,98,F,35,executive/managerial,33547
+720046,,,,,99,F,1,K-12 student,19390
+720047,,,,,100,M,35,technician/engineer,95401
+720048,,,,,101,F,18,clerical/admin,33314
+720049,,,,,102,M,35,unemployed,20871
+720050,,,,,103,M,45,executive/managerial,92104
+720051,,,,,104,M,25,programmer,00926
+720052,,,,,105,M,45,programmer,90277
+720053,,,,,106,F,35,lawyer,79101
+720054,,,,,107,M,45,tradesman/craftsman,63129
+720055,,,,,108,M,25,programmer,30316
+720056,,,,,109,M,45,scientist,92028
+720057,,,,,110,M,25,artist,90803
+720058,,,,,111,M,35,scientist,55416
+720059,,,,,112,M,25,self-employed,97209
+720060,,,,,113,M,18,programmer,37032
+720061,,,,,114,F,25,artist,83712
+720062,,,,,115,M,25,technician/engineer,28083
+720063,,,,,116,M,25,technician/engineer,55744
+720064,,,,,117,M,25,technician/engineer,33314
+720065,,,,,118,M,35,technician/engineer,22315
+720066,,,,,119,F,1,K-12 student,77515
+720067,,,,,120,M,25,lawyer,27106
+720068,,,,,121,M,35,executive/managerial,75229
+720069,,,,,122,F,18,college/grad student,94305
+720070,,,,,123,M,35,homemaker,67208
+720071,,,,,124,M,56,executive/managerial,91356
+720072,,,,,125,M,45,sales/marketing,01701
+720073,,,,,126,M,18,homemaker,98117
+720074,,,,,127,F,45,clerical/admin,01770
+720075,,,,,128,M,56,doctor/health care,37922
+720076,,,,,129,M,25,lawyer,20164
+720077,,,,,130,M,35,technician/engineer,50021
+720078,,,,,131,M,18,college/grad student,06520
+720079,,,,,132,M,25,technician/engineer,99709
+720080,,,,,133,F,25,other,55071
+720081,,,,,134,M,25,other,66212
+720082,,,,,135,M,18,college/grad student,20006
+720083,,,,,136,M,18,artist,21202
+720084,,,,,137,F,45,doctor/health care,78758
+720085,,,,,138,M,18,writer,22203
+720086,,,,,139,F,25,writer,45409
+720087,,,,,140,F,35,academic/educator,55107
+720088,,,,,141,M,35,retired,62035
+720089,,,,,142,M,25,executive/managerial,10011
+720090,,,,,143,M,18,clerical/admin,64043
+720091,,,,,144,M,25,technician/engineer,29401
+720092,,,,,145,M,18,college/grad student,19081
+720093,,,,,146,F,35,writer,10954
+720094,,,,,147,M,18,college/grad student,91360
+720095,,,,,148,M,50,technician/engineer,57747
+720096,,,,,149,M,25,academic/educator,29205
+720097,,,,,150,M,35,executive/managerial,98144
+720098,,,,,151,F,25,writer,85013
+720099,,,,,152,M,18,college/grad student,48104
+720100,,,,,153,M,1,K-12 student,51537
+720101,,,,,154,M,50,writer,94530
+720102,,,,,155,M,35,programmer,07470
+720103,,,,,156,F,45,executive/managerial,14519
+720104,,,,,157,M,35,self-employed,12866
+720105,,,,,158,M,56,executive/managerial,28754
+720106,,,,,159,F,45,other,37922
+720107,,,,,160,M,35,executive/managerial,13021
+720108,,,,,161,M,45,self-employed,98107-2117
+720109,,,,,162,F,18,college/grad student,93117
+720110,,,,,163,M,18,college/grad student,85013
+720111,,,,,164,F,56,retired,94566
+720112,,,,,165,M,18,self-employed,98502
+720113,,,,,166,M,18,college/grad student,92802
+720114,,,,,167,F,25,lawyer,10022
+720115,,,,,168,F,50,other,46970
+720116,,,,,169,M,25,executive/managerial,55439
+720117,,,,,170,M,25,lawyer,07002
+720118,,,,,171,F,50,technician/engineer,55441
+720119,,,,,172,M,25,clerical/admin,07661
+720120,,,,,173,M,25,other,45237
+720121,,,,,174,M,25,self-employed,21203
+720122,,,,,175,F,25,artist,95123
+720123,,,,,176,F,18,clerical/admin,55016
+720124,,,,,177,M,50,academic/educator,54016
+720125,,,,,178,M,56,technician/engineer,53705
+720126,,,,,179,M,25,other,02135
+720127,,,,,180,M,45,programmer,01603
+720128,,,,,181,M,18,technician/engineer,33186
+720129,,,,,182,M,18,college/grad student,03052
+720130,,,,,183,F,45,academic/educator,55407
+720131,,,,,184,F,25,other,19001
+720132,,,,,185,M,45,other,14468
+720133,,,,,186,M,18,customer service,91767
+720134,,,,,187,F,45,academic/educator,94061
+720135,,,,,188,M,56,self-employed,79930
+720136,,,,,189,M,18,other,60076
+720137,,,,,190,M,25,technician/engineer,55125
+720138,,,,,191,M,18,college/grad student,04915
+720139,,,,,192,M,18,academic/educator,10977
+720140,,,,,193,F,45,scientist,44106
+720141,,,,,194,F,1,K-12 student,29146
+720142,,,,,195,M,25,programmer,10458
+720143,,,,,196,F,35,homemaker,94587
+720144,,,,,197,M,18,sales/marketing,10023
+720145,,,,,198,M,25,programmer,55108
+720146,,,,,199,M,18,college/grad student,83706
+720147,,,,,200,F,18,college/grad student,84321
+720148,,,,,201,F,35,artist,55117
+720149,,,,,202,M,18,college/grad student,53706
+720150,,,,,203,F,18,college/grad student,53715
+720151,,,,,204,M,25,executive/managerial,92123
+720152,,,,,205,M,35,programmer,97333
+720153,,,,,206,M,25,technician/engineer,20194
+720154,,,,,207,M,25,programmer,94115
+720155,,,,,208,M,35,technician/engineer,55432
+720156,,,,,209,M,35,academic/educator,90048
+720157,,,,,210,F,1,K-12 student,25801
+720158,,,,,211,M,45,technician/engineer,90620
+720159,,,,,212,M,25,self-employed,53714
+720160,,,,,213,F,18,college/grad student,01609
+720161,,,,,214,M,18,writer,80218
+720162,,,,,215,M,35,sales/marketing,92075
+720163,,,,,216,M,45,retired,52761
+720164,,,,,217,M,18,college/grad student,22903
+720165,,,,,218,M,35,sales/marketing,95822
+720166,,,,,219,F,25,college/grad student,55113
+720167,,,,,220,M,25,programmer,22903
+720168,,,,,221,F,25,other,94063
+720169,,,,,222,M,25,academic/educator,55116
+720170,,,,,223,M,25,technician/engineer,28262
+720171,,,,,224,F,18,college/grad student,14850
+720172,,,,,225,M,25,executive/managerial,11215
+720173,,,,,226,M,35,academic/educator,94518
+720174,,,,,227,M,35,writer,90291
+720175,,,,,228,M,25,scientist,55455
+720176,,,,,229,M,18,K-12 student,04576
+720177,,,,,230,M,45,academic/educator,43210
+720178,,,,,231,M,25,clerical/admin,55455
+720179,,,,,232,M,25,writer,55408
+720180,,,,,233,F,45,writer,37919-4204
+720181,,,,,234,M,35,executive/managerial,39652
+720182,,,,,235,M,25,other,98153
+720183,,,,,236,M,25,customer service,55126
+720184,,,,,237,M,25,doctor/health care,46835
+720185,,,,,238,F,50,executive/managerial,90291
+720186,,,,,239,M,18,unemployed,94618
+720187,,,,,240,M,50,technician/engineer,55113
+720188,,,,,241,M,35,writer,55121
+720189,,,,,242,F,18,college/grad student,53706
+720190,,,,,243,M,25,self-employed,11576
+720191,,,,,244,M,50,executive/managerial,19072
+720192,,,,,245,M,35,self-employed,66046
+720193,,,,,246,F,18,college/grad student,60625
+720194,,,,,247,M,25,technician/engineer,94404
+720195,,,,,248,M,18,technician/engineer,72703
+720196,,,,,249,F,18,sales/marketing,48126
+720197,,,,,250,M,35,self-employed,11229
+720198,,,,,251,M,56,technician/engineer,55105
+720199,,,,,252,M,25,programmer,94112
+720200,,,,,253,F,25,lawyer,97370
+720201,,,,,254,M,35,technician/engineer,49015
+720202,,,,,255,M,35,other,85310
+720203,,,,,256,M,45,self-employed,55076
+720204,,,,,257,M,18,tradesman/craftsman,55113
+720205,,,,,258,M,25,executive/managerial,55436
+720206,,,,,259,M,25,academic/educator,60615
+720207,,,,,260,M,18,unemployed,98126
+720208,,,,,261,M,25,writer,75801
+720209,,,,,262,F,25,academic/educator,68503
+720210,,,,,263,F,25,executive/managerial,22304
+720211,,,,,264,M,35,other,20755
+720212,,,,,265,F,35,executive/managerial,55116
+720213,,,,,266,M,35,lawyer,75229
+720214,,,,,267,M,45,programmer,55001
+720215,,,,,268,F,18,programmer,29708
+720216,,,,,269,M,25,artist,55408
+720217,,,,,270,M,50,sales/marketing,55414
+720218,,,,,271,M,18,college/grad student,48202
+720219,,,,,272,M,18,other,80302
+720220,,,,,273,M,18,college/grad student,55427
+720221,,,,,274,M,18,college/grad student,55455
+720222,,,,,275,M,25,other,48162
+720223,,,,,276,M,45,self-employed,01982
+720224,,,,,277,F,35,academic/educator,98126
+720225,,,,,278,M,45,tradesman/craftsman,60482
+720226,,,,,279,M,25,sales/marketing,91214
+720227,,,,,280,M,50,executive/managerial,19118
+720228,,,,,281,F,35,other,94117
+720229,,,,,282,M,25,technician/engineer,94401
+720230,,,,,283,M,25,other,10003
+720231,,,,,284,M,25,programmer,91910
+720232,,,,,285,F,35,other,94109
+720233,,,,,286,M,25,academic/educator,54601
+720234,,,,,287,M,50,retired,94706
+720235,,,,,288,F,25,programmer,97119
+720236,,,,,289,F,25,other,11801
+720237,,,,,290,F,25,writer,94591
+720238,,,,,291,M,35,programmer,55110
+720239,,,,,292,M,35,executive/managerial,19406
+720240,,,,,293,M,56,academic/educator,55337-4056
+720241,,,,,294,F,45,homemaker,43147
+720242,,,,,295,M,18,other,80203
+720243,,,,,296,M,50,customer service,89432
+720244,,,,,297,M,18,artist,97211
+720245,,,,,298,F,18,college/grad student,19010
+720246,,,,,299,M,25,programmer,97370
+720247,,,,,300,M,25,executive/managerial,78664
+720248,,,,,301,M,18,college/grad student,61820
+720249,,,,,302,M,18,college/grad student,04901
+720250,,,,,303,M,25,executive/managerial,20006
+720251,,,,,304,M,25,other,55414
+720252,,,,,305,F,18,other,55414
+720253,,,,,306,M,18,other,53051
+720254,,,,,307,M,50,self-employed,90027
+720255,,,,,308,M,25,artist,10025
+720256,,,,,309,M,25,college/grad student,16801
+720257,,,,,310,F,18,college/grad student,31207
+720258,,,,,311,M,18,college/grad student,31201
+720259,,,,,312,F,50,artist,22207
+720260,,,,,313,F,18,college/grad student,02138
+720261,,,,,314,F,56,homemaker,46911
+720262,,,,,315,F,56,academic/educator,55105
+720263,,,,,316,M,56,retired,90740
+720264,,,,,317,M,35,executive/managerial,38555
+720265,,,,,318,F,56,retired,55104
+720266,,,,,319,F,50,doctor/health care,33436
+720267,,,,,320,M,35,doctor/health care,99516
+720268,,,,,321,M,18,college/grad student,55128
+720269,,,,,322,M,56,technician/engineer,55117
+720270,,,,,323,M,45,programmer,53716
+720271,,,,,324,M,35,technician/engineer,55106
+720272,,,,,325,F,50,clerical/admin,55112
+720273,,,,,326,M,50,lawyer,25302
+720274,,,,,327,M,35,tradesman/craftsman,55448
+720275,,,,,328,M,35,programmer,80401
+720276,,,,,329,M,35,executive/managerial,02115
+720277,,,,,330,M,56,executive/managerial,92065
+720278,,,,,331,M,25,executive/managerial,55902
+720279,,,,,332,M,50,academic/educator,55109
+720280,,,,,333,M,35,artist,55410
+720281,,,,,334,F,56,artist,55113
+720282,,,,,335,M,35,tradesman/craftsman,55434
+720283,,,,,336,M,18,other,98765
+720284,,,,,337,M,18,unemployed,80205
+720285,,,,,338,M,35,executive/managerial,55116
+720286,,,,,339,M,50,executive/managerial,80207
+720287,,,,,340,F,25,clerical/admin,28001
+720288,,,,,341,F,56,retired,92119
+720289,,,,,342,M,18,programmer,55076
+720290,,,,,343,F,35,clerical/admin,55127
+720291,,,,,344,M,35,sales/marketing,75034
+720292,,,,,345,M,25,programmer,94114
+720293,,,,,346,F,25,other,55110
+720294,,,,,347,F,56,academic/educator,55305
+720295,,,,,348,M,50,executive/managerial,55110
+720296,,,,,349,M,1,K-12 student,08035
+720297,,,,,350,M,45,writer,08035
+720298,,,,,351,M,18,college/grad student,55105
+720299,,,,,352,M,18,college/grad student,60115
+720300,,,,,353,F,35,executive/managerial,92625
+720301,,,,,354,M,35,academic/educator,55117
+720302,,,,,355,M,18,clerical/admin,55107
+720303,,,,,356,M,56,writer,55101
+720304,,,,,357,M,18,other,98103
+720305,,,,,358,F,56,academic/educator,20815
+720306,,,,,359,M,25,technician/engineer,55128
+720307,,,,,360,M,35,technician/engineer,28208
+720308,,,,,361,F,25,sales/marketing,94115
+720309,,,,,362,M,35,writer,55407
+720310,,,,,363,M,18,K-12 student,55419
+720311,,,,,364,F,35,academic/educator,46815
+720312,,,,,365,F,18,college/grad student,02138
+720313,,,,,366,M,50,scientist,55126
+720314,,,,,367,M,50,programmer,55421
+720315,,,,,368,M,25,other,90293
+720316,,,,,369,M,35,academic/educator,55110
+720317,,,,,370,M,18,technician/engineer,22304
+720318,,,,,371,M,18,college/grad student,02141
+720319,,,,,372,F,18,college/grad student,72227
+720320,,,,,373,F,25,artist,55347
+720321,,,,,374,F,35,sales/marketing,55346
+720322,,,,,375,M,25,artist,55106
+720323,,,,,376,M,35,academic/educator,80026
+720324,,,,,377,M,25,technician/engineer,55418
+720325,,,,,378,F,18,other,55105
+720326,,,,,379,F,35,academic/educator,54822
+720327,,,,,380,M,25,artist,92024
+720328,,,,,381,M,35,technician/engineer,89015
+720329,,,,,382,F,35,writer,66205
+720330,,,,,383,F,25,executive/managerial,78757
+720331,,,,,384,M,25,lawyer,55075
+720332,,,,,385,M,25,doctor/health care,68131
+720333,,,,,386,M,25,other,55408
+720334,,,,,387,F,35,executive/managerial,55111
+720335,,,,,388,F,25,other,10021
+720336,,,,,389,M,25,doctor/health care,68128
+720337,,,,,390,M,25,college/grad student,55405
+720338,,,,,391,M,45,lawyer,22122
+720339,,,,,392,M,18,executive/managerial,20037
+720340,,,,,393,M,35,technician/engineer,55402
+720341,,,,,394,M,18,other,55013
+720342,,,,,395,M,18,customer service,55104
+720343,,,,,396,M,25,academic/educator,56187
+720344,,,,,397,M,35,technician/engineer,22124
+720345,,,,,398,M,25,technician/engineer,55454
+720346,,,,,399,F,35,doctor/health care,55128
+720347,,,,,400,F,18,clerical/admin,55422
+720348,,,,,401,M,18,other,55129
+720349,,,,,402,M,25,lawyer,55427
+720350,,,,,403,M,18,college/grad student,02138
+720351,,,,,404,M,18,college/grad student,10128
+720352,,,,,405,M,56,academic/educator,13077
+720353,,,,,406,M,25,writer,55105
+720354,,,,,407,M,18,technician/engineer,89503
+720355,,,,,408,M,25,lawyer,02143
+720356,,,,,409,M,18,programmer,55122
+720357,,,,,410,F,25,academic/educator,55417
+720358,,,,,411,F,45,academic/educator,43214
+720359,,,,,412,M,35,scientist,55117
+720360,,,,,413,M,25,lawyer,55409
+720361,,,,,414,M,25,other,55317
+720362,,,,,415,F,35,other,55406
+720363,,,,,416,M,45,sales/marketing,55076
+720364,,,,,417,F,25,other,50613
+720365,,,,,418,F,25,clerical/admin,54016
+720366,,,,,419,M,18,clerical/admin,55422
+720367,,,,,420,M,35,academic/educator,55406
+720368,,,,,421,F,45,clerical/admin,55125
+720369,,,,,422,M,56,technician/engineer,55104
+720370,,,,,423,M,18,college/grad student,55455
+720371,,,,,424,M,25,technician/engineer,55112
+720372,,,,,425,M,25,programmer,55303
+720373,,,,,426,M,18,college/grad student,55455
+720374,,,,,427,M,35,programmer,55104
+720375,,,,,428,F,18,college/grad student,55455
+720376,,,,,429,M,18,other,54901
+720377,,,,,430,F,18,K-12 student,55306
+720378,,,,,431,M,18,K-12 student,55303
+720379,,,,,432,M,45,self-employed,55306
+720380,,,,,433,M,50,doctor/health care,55115
+720381,,,,,434,F,45,clerical/admin,98155
+720382,,,,,435,M,25,executive/managerial,55125
+720383,,,,,436,M,18,college/grad student,43023
+720384,,,,,437,M,35,technician/engineer,55030
+720385,,,,,438,M,18,lawyer,53705
+720386,,,,,439,M,35,sales/marketing,55129
+720387,,,,,440,M,56,academic/educator,32940
+720388,,,,,441,M,35,academic/educator,55127
+720389,,,,,442,M,25,academic/educator,55105
+720390,,,,,443,M,25,clerical/admin,55421
+720391,,,,,444,M,56,other,55108
+720392,,,,,445,M,45,programmer,55117
+720393,,,,,446,F,50,other,55042
+720394,,,,,447,F,45,lawyer,55105
+720395,,,,,448,M,25,technician/engineer,80123
+720396,,,,,449,M,25,executive/managerial,85037
+720397,,,,,450,M,45,academic/educator,24523
+720398,,,,,451,M,56,retired,54720
+720399,,,,,452,M,50,technician/engineer,55117
+720400,,,,,453,M,18,college/grad student,55102
+720401,,,,,454,M,25,writer,55092
+720402,,,,,455,F,35,artist,55113
+720403,,,,,456,M,35,other,55105
+720404,,,,,457,M,18,college/grad student,54703
+720405,,,,,458,M,50,self-employed,55405-2546
+720406,,,,,459,F,18,college/grad student,55105
+720407,,,,,460,M,45,tradesman/craftsman,55313
+720408,,,,,461,M,50,executive/managerial,55075
+720409,,,,,462,M,18,self-employed,55416
+720410,,,,,463,M,25,executive/managerial,55105
+720411,,,,,464,F,18,college/grad student,55455
+720412,,,,,465,M,18,unemployed,94523
+720413,,,,,466,M,25,customer service,55405
+720414,,,,,467,F,35,clerical/admin,55075
+720415,,,,,468,F,1,K-12 student,55082
+720416,,,,,469,M,35,doctor/health care,55122
+720417,,,,,470,F,1,K-12 student,55068
+720418,,,,,471,M,35,executive/managerial,08904
+720419,,,,,472,M,35,other,55418
+720420,,,,,473,F,18,college/grad student,55112
+720421,,,,,474,M,25,technician/engineer,92126
+720422,,,,,475,F,25,artist,55421
+720423,,,,,476,M,35,other,55127
+720424,,,,,477,M,35,sales/marketing,55410
+720425,,,,,478,M,50,self-employed,55113
+720426,,,,,479,M,25,programmer,55042
+720427,,,,,480,F,18,college/grad student,55422
+720428,,,,,481,M,45,executive/managerial,55115
+720429,,,,,482,M,25,sales/marketing,55305
+720430,,,,,483,M,18,programmer,55105
+720431,,,,,484,F,1,K-12 student,55104
+720432,,,,,485,M,56,executive/managerial,55042
+720433,,,,,486,M,56,other,91367
+720434,,,,,487,F,35,technician/engineer,55082
+720435,,,,,488,M,25,programmer,55107
+720436,,,,,489,M,18,college/grad student,55455
+720437,,,,,490,M,1,K-12 student,55345
+720438,,,,,491,M,18,college/grad student,56043
+720439,,,,,492,M,25,programmer,55112
+720440,,,,,493,M,50,executive/managerial,55016
+720441,,,,,494,F,35,other,17870
+720442,,,,,495,M,18,K-12 student,55421
+720443,,,,,496,M,18,college/grad student,55455
+720444,,,,,497,F,25,technician/engineer,55412
+720445,,,,,498,M,35,technician/engineer,55113
+720446,,,,,499,F,25,academic/educator,55108
+720447,,,,,500,F,18,artist,55105
+720448,,,,,501,M,25,artist,55372
+720449,,,,,502,M,35,doctor/health care,55126
+720450,,,,,503,M,35,lawyer,73120
+720451,,,,,504,M,25,artist,17003
+720452,,,,,505,M,35,technician/engineer,37815
+720453,,,,,506,M,25,self-employed,55103-1006
+720454,,,,,507,F,25,other,55405
+720455,,,,,508,M,25,programmer,55418
+720456,,,,,509,M,25,artist,55125
+720457,,,,,510,M,18,programmer,55109
+720458,,,,,511,F,45,college/grad student,15232
+720459,,,,,512,M,35,other,55379
+720460,,,,,513,M,25,other,55119
+720461,,,,,514,M,25,artist,55113
+720462,,,,,515,M,25,academic/educator,55406
+720463,,,,,516,F,56,sales/marketing,55033
+720464,,,,,517,F,25,sales/marketing,55408
+720465,,,,,518,F,35,programmer,75240
+720466,,,,,519,F,35,sales/marketing,55038
+720467,,,,,520,F,35,writer,55104
+720468,,,,,521,M,56,executive/managerial,55105
+720469,,,,,522,M,25,programmer,55124
+720470,,,,,523,M,50,executive/managerial,55105
+720471,,,,,524,M,18,other,91320
+720472,,,,,525,M,35,doctor/health care,19027
+720473,,,,,526,M,45,technician/engineer,94806
+720474,,,,,527,F,25,artist,11201
+720475,,,,,528,F,18,technician/engineer,83843
+720476,,,,,529,M,35,programmer,92009
+720477,,,,,530,M,25,artist,10019
+720478,,,,,531,F,18,sales/marketing,22206
+720479,,,,,532,M,25,executive/managerial,94301
+720480,,,,,533,M,25,programmer,27514
+720481,,,,,534,M,25,scientist,55902
+720482,,,,,535,M,35,doctor/health care,95370
+720483,,,,,536,M,25,writer,01267
+720484,,,,,537,M,45,sales/marketing,07704
+720485,,,,,538,M,56,self-employed,95407
+720486,,,,,539,M,25,artist,55103
+720487,,,,,540,M,18,academic/educator,15213
+720488,,,,,541,F,18,college/grad student,5849574
+720489,,,,,542,M,18,college/grad student,78705
+720490,,,,,543,M,25,customer service,55057
+720491,,,,,544,M,35,programmer,94538
+720492,,,,,545,M,35,technician/engineer,01890
+720493,,,,,546,F,25,other,37211
+720494,,,,,547,M,35,programmer,76109
+720495,,,,,548,F,35,self-employed,96860
+720496,,,,,549,M,25,doctor/health care,53217
+720497,,,,,550,M,45,farmer,21559
+720498,,,,,551,M,35,writer,55116
+720499,,,,,552,M,50,tradesman/craftsman,23456
+720500,,,,,553,M,25,artist,94131
+720501,,,,,554,M,25,programmer,94086
+720502,,,,,555,M,18,college/grad student,53213
+720503,,,,,556,F,25,homemaker,37221
+720504,,,,,557,M,56,academic/educator,30030
+720505,,,,,558,M,35,writer,55108
+720506,,,,,559,F,25,executive/managerial,60422
+720507,,,,,560,M,45,scientist,81335
+720508,,,,,561,F,18,sales/marketing,64060
+720509,,,,,562,M,35,writer,48083
+720510,,,,,563,M,25,college/grad student,53703
+720511,,,,,564,M,45,academic/educator,49419
+720512,,,,,565,M,25,self-employed,45242
+720513,,,,,566,M,25,technician/engineer,92122
+720514,,,,,567,M,35,writer,52570-9634
+720515,,,,,568,F,50,technician/engineer,19716
+720516,,,,,569,F,18,college/grad student,97339
+720517,,,,,570,M,25,college/grad student,33314
+720518,,,,,571,M,50,customer service,95401
+720519,,,,,572,M,18,college/grad student,61801
+720520,,,,,573,F,35,artist,98119
+720521,,,,,574,M,25,unemployed,90214
+720522,,,,,575,M,25,programmer,92130
+720523,,,,,576,F,45,scientist,20910
+720524,,,,,577,M,35,other,02115
+720525,,,,,578,M,18,technician/engineer,90064
+720526,,,,,579,M,25,customer service,32839
+720527,,,,,580,M,1,K-12 student,08534
+720528,,,,,581,M,50,sales/marketing,73543
+720529,,,,,582,M,18,college/grad student,67042
+720530,,,,,583,F,25,other,48067
+720531,,,,,584,F,25,other,94403
+720532,,,,,585,M,18,academic/educator,53703
+720533,,,,,586,M,35,sales/marketing,53092
+720534,,,,,587,M,25,writer,92649
+720535,,,,,588,F,25,lawyer,23220
+720536,,,,,589,M,18,artist,90210
+720537,,,,,590,F,35,doctor/health care,98032
+720538,,,,,591,M,25,other,76201
+720539,,,,,592,M,18,other,92103
+720540,,,,,593,F,50,academic/educator,91711
+720541,,,,,594,F,56,retired,60076
+720542,,,,,595,M,25,executive/managerial,10019
+720543,,,,,596,F,25,academic/educator,01950
+720544,,,,,597,M,35,programmer,80206
+720545,,,,,598,M,35,executive/managerial,95476
+720546,,,,,599,M,50,doctor/health care,53711
+720547,,,,,600,M,35,technician/engineer,66209
+720548,,,,,601,F,18,writer,06320
+720549,,,,,602,F,56,doctor/health care,14612
+720550,,,,,603,F,25,doctor/health care,32256
+720551,,,,,604,M,45,technician/engineer,32256
+720552,,,,,605,F,18,college/grad student,44425
+720553,,,,,606,F,1,K-12 student,49507
+720554,,,,,607,M,25,other,43614
+720555,,,,,608,M,18,college/grad student,18011
+720556,,,,,609,M,25,executive/managerial,10012
+720557,,,,,610,M,25,college/grad student,77025
+720558,,,,,611,M,35,other,20715
+720559,,,,,612,M,50,executive/managerial,95020
+720560,,,,,613,M,35,writer,10562
+720561,,,,,614,M,35,academic/educator,90024
+720562,,,,,615,M,50,technician/engineer,32951
+720563,,,,,616,M,25,executive/managerial,94115
+720564,,,,,617,F,25,executive/managerial,92117
+720565,,,,,618,M,25,other,74105
+720566,,,,,619,F,18,academic/educator,94706
+720567,,,,,620,M,18,other,13210
+720568,,,,,621,M,18,college/grad student,93560
+720569,,,,,622,M,25,other,92612
+720570,,,,,623,M,25,technician/engineer,60555
+720571,,,,,624,M,25,academic/educator,75207
+720572,,,,,625,F,35,programmer,44106
+720573,,,,,626,M,18,college/grad student,77005
+720574,,,,,627,M,50,artist,97210
+720575,,,,,628,F,35,other,20715
+720576,,,,,629,F,1,K-12 student,48154
+720577,,,,,630,F,35,sales/marketing,80525
+720578,,,,,631,M,35,technician/engineer,28601
+720579,,,,,632,M,45,technician/engineer,07649
+720580,,,,,633,M,25,technician/engineer,94131
+720581,,,,,634,F,1,K-12 student,49512
+720582,,,,,1265,F,18,writer,49321
+720583,,,,,1287,F,50,executive/managerial,94611
+720584,,,,,1877,F,45,writer,90069
+720585,,,,,2910,M,1,unemployed,75602
+720586,,,,,2947,F,25,other,02138
+720587,,,,,2980,M,45,executive/managerial,91766
